@@ -1,4 +1,4 @@
-import random 
+import random
 
 def sena():
     from random import shuffle
