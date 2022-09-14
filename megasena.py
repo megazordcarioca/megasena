@@ -1,10 +1,12 @@
-import random 
+from random import shuffle
 
-def sena():
-    from random import shuffle
-    x = [[i] for i in range(1,60)]
+def webScrapping():
+    
+
+def lotofacil():
+    x = [[i] for i in range(1,25)]
     shuffle(x)
-    print (x[0:6])
+    print (x[0:14])
 
 
-print(sena())
+print(lotofacil())
